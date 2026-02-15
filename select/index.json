@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "鏡よ鏡 - Mirror, mirror",
+  "base_artist": "BAK",
+  "createdAt": "2026-02-15T08:22:49.984736Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "鏡よ鏡",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/01_鏡よ鏡_花譜.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "鏡よ鏡",
+      "artist": "Jurassic Jade",
+      "has_synced": false,
+      "path": "select/02_鏡よ鏡_Jurassic_Jade.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "鏡よ鏡",
+      "artist": "木村カエラ",
+      "has_synced": true,
+      "path": "select/03_鏡よ鏡_木村カエラ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鏡よ鏡",
+      "artist": "BAK",
+      "has_synced": false,
+      "path": "select/pl_01_鏡よ鏡_BAK.txt"
+    }
+  ]
+}
